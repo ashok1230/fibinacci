@@ -1,6 +1,6 @@
 class fibinacci:
     def __init__(self):
-  pass
+  	pass
     def series(self):
 	self.number=int(raw_input("enter number of terms to print:"))
 	print 0,
